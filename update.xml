@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<update>
+	<cz>
+		<autodl>
+			<version>2.12</version>
+			<url>
+https://raw.githubusercontent.com/robert022/autodl-chatzilla/master/autodl-v2.12.zip</url>
+			<whats-new>
+				* Settings.js: "XML is not defined @ ...\Settings.js"
+				* HttpRequest.js: "HttpRequest.sendGetRequestInternal: ex: Not Connected"
+				* Updated trackers list to v254
+			</whats-new>
+		</autodl>
+		<trackers>
+			<version>254</version>
+			<url>
+https://raw.githubusercontent.com/robert022/autodl-chatzilla/master/autodl-trackers.zip</url>
+		</trackers>
+	</cz>
+</update>
